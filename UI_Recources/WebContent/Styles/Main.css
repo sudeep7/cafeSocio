@@ -1,0 +1,124 @@
+@charset "utf-8";
+/* CSS Document */
+#menu {
+	background-color:transparent;
+	
+	height:50px;
+	float: left;
+	width: 100%;
+}
+
+#menu ul {
+	margin: 0;
+	padding: 15px 0px 0px 0px;
+	list-style: none;
+	line-height: normal;
+}
+
+#menu li {
+	background: no-repeat left 10px;
+	display: block;
+	float: left;
+}
+
+#menu a  {
+	
+	display: block;
+	float: left;
+	padding: 0px 10px 0px 10px;
+	letter-spacing: -1px;
+	text-decoration: none;
+	text-align: center;
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: navy;
+	
+}
+
+#menu a  {
+	
+	display: block;
+	float: left;
+	padding: 0px 10px 0px 10px;
+	letter-spacing: -1px;
+	text-decoration: none;
+	text-align: center;
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: navy;
+	
+}
+#menu img  {
+	
+	display: block;
+	float: left;
+	padding: 0px 10px 0px 10px;
+	letter-spacing: -1px;
+	text-decoration: none;
+	text-align: center;
+	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: navy;
+	width: 200px;
+	
+}
+
+
+#menu a:hover { 
+	text-decoration: none; 
+
+	color:navy;
+
+}
+
+#menu .current_page_item a {
+}
+
+#menu .first {
+}@CHARSET "ISO-8859-1";
+/*
+Search
+*/
+
+.page
+{
+     width:960px;
+    background-color: #fffff;
+    margin: 10px auto 0px auto;
+    
+}
+body   
+{
+
+    background: #Fffff; 
+    font-size: .80em;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+	
+    margin: 0px;
+    padding: 0px;
+    color: #696969;
+}
+
+.header
+{
+height:70px;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+ 
+    width: 100%;
+
+}
+
+#per {
+margin-left: 200px;
+background-color:#fff;
+overflow: auto;
+border:medium;
+}
