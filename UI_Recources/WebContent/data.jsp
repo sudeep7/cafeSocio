@@ -13,7 +13,7 @@
 					</div>
 					
 				</a>
-				
+				 
 				<a class="folioItem website-design" data-type="website-design" href="portfolio-cistine.html" data-name="Cistine-Clothing">
 
 					<img src="assets/portfolio/thumbs/cistineclothing-icon.jpg" class="folioThumb" alt="Cistine_Clothing" />
