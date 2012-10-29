@@ -3,8 +3,6 @@
 <!--[if IE 8]><html dir="ltr" lang="en-US" class="ie8" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
 <!--[if gt IE 8]><!--><html dir="ltr" lang="en-US" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]-->
 
-
-<!-- Mirrored from www.s18design.com/Services.html by HTTrack Website Copier/3.x [XR&CO'2010], Tue, 23 Oct 2012 14:26:54 GMT -->
 <head>
 
 	<meta charset="UTF-8" />
@@ -34,7 +32,7 @@
 
 </script>
 
-     <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
 		
 </head>
 
@@ -79,7 +77,7 @@
 			<div class="left">
 				<div class="widget clearfix twitter">
 					 &copy; Copyright 2012 - CafeSocio !! 
-        |<a href="#">Contact Us |</a> <a href="#">Terms & Conditions</a> | <a href="#">Privacy policy</a>
+        |<a href="#">Contact Us |</a> <a href="#">Terms &amp; Conditions</a> | <a href="#">Privacy policy</a>
 		
 				</div>			
 			</div>
@@ -105,5 +103,5 @@
 
 </body>
 
-<!-- Mirrored from www.s18design.com/Services.html by HTTrack Website Copier/3.x [XR&CO'2010], Tue, 23 Oct 2012 14:26:54 GMT -->
+
 </html>
